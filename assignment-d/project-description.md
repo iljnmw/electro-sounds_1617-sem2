@@ -25,5 +25,3 @@ In my exploration of sensing time through this work, of the struggle to converge
 ###Soundtrack
 This soundtrack will be 2:20secs. The genre is ambient/experimental/glitch.
 
-###Video Link
-<https://vimeo.com/213615083>
