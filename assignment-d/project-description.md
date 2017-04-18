@@ -1,7 +1,7 @@
 # Assignments D
 
 
-####Title - Converging Worlds
+#### Title - Converging Worlds
 
 I will be making an algorithmic video using various algorithms to generate abstract visuals along with the soundtrack. This visual will be midi reactive. I will create several sketches to segment different parts and sounds giving it different variations and types of visual textures. Having a midi controller to control the parameters, such as opacity and density, gives me more control over how the visuals are being moved or changed. It also helps me to affect the movements in real-time along with the soundtrack. 
 
@@ -13,7 +13,7 @@ In my exploration of sensing time through this work, of the struggle to converge
 
 
 
-###Reference
+### Reference
 
 <https://www.youtube.com/watch?v=55QU470oWrM> - Ryoichi Kurokawa This reference from Ryoichi Kurokawa is relevant to my work because the visuals are very unpredictable, and gives me a sort of suspense and tension that i want to apply to my work. The glitches are also relevant in what i want to achieve in my visuals.
 
@@ -22,6 +22,6 @@ In my exploration of sensing time through this work, of the struggle to converge
 <http://www.hiroshisenju.com/gallery/waterfall/2>
 
 
-###Soundtrack
+### Soundtrack
 This soundtrack will be 2:20secs. The genre is ambient/experimental/glitch.
 

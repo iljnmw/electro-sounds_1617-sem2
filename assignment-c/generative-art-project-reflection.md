@@ -1,4 +1,4 @@
-#Assignment C
+# Assignment C
 
 I have chosen is “withoutTitle” by Lia, a software machine exploring the boundaries of control.
 https://processing.org/exhibition/works/withouttitle/index_link.html
