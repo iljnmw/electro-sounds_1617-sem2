@@ -21,19 +21,19 @@ void draw() {
   background(random(0,255));
   
    
-for (int i = 0; i < 1000; i = i+5){
+for (int i = 0; i < 1000; i = i+9){
 line(i, 0, i, width/3);
 strokeWeight(random(17));
   }
-  for (int i = 0; i < 1000; i = i+2){
+  for (int i = 0; i < 1000; i = i+5){
 
     line(i, height/2, i, width);
     strokeWeight(random(7));
   }
-  if (x < 100) {
-    line(x, 0, x, 100);
-    x = x *100;
-  }
+  //if (x < 100) {
+  //  line(x, 0, x, 100);
+  //  x = x *100;
+  //}
   
   }
   // Saves each frame as screen-0001.tif, screen-0002.tif, etc.
