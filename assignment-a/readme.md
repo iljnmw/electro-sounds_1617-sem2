@@ -13,9 +13,9 @@ Create a series of 3 sketches that resemble one work of each of the following ar
 
 ##### Ryoji Ikeda - Test Pattern
 
-![Ryojiikeda](Ryojiikeda.png)
+![RyojiIkeda](RyojiIkeda.png)
 
 
 ##### Frieder Nake - 	6/7/64 Nr. 20 Zufälliger Polygonzug
 
-![FriederNake](FriederNake.png)
+![friederNake](friederNake.png)
